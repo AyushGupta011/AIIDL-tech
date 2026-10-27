@@ -97,3 +97,12 @@ npm run build && npm start
 - [x] Interactive services accordion reveals left image thumbnail and floating popover card.
 - [x] Mobile hamburger menu opens, morphs into 'X', closes on link tap, outside click, and `Esc` key.
 - [x] Contact form validates correctly and displays submission confirmation.
+
+
+- desktop ss
+
+![alt text](image.png)
+
+
+- mobile ss
+![alt text](image-1.png)
